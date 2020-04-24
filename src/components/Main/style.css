@@ -1,0 +1,19 @@
+.postContainer{
+    width:70%;
+    height: 500px;
+    background-color: white;
+}
+.postMenu{
+    font-size: 18px;
+    
+}
+.comm{
+    font: lighter;
+    display:inline-flex;
+}
+.sum{
+    background-color: rgb(255, 229, 142);
+}
+.sum li{
+    list-style: none;
+}
